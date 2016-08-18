@@ -1,0 +1,23 @@
+{
+  "name": "zlotygroszy",
+  "version": "0.0.1",
+  "description": "Convert polish currency from number to words",
+  "main": "zlotygroszy.js",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "Słownie",
+    "złoty",
+    "groszy",
+    "Polish",
+    "Numbers",
+    "to",
+    "Words"
+  ],
+  "author": "Vivek Patel",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "^9.0.2"
+  }
+}
